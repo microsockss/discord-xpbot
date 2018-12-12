@@ -2,7 +2,6 @@ import discord
 import asyncio
 import logging
 import string
-import random
 
 
 # Set these variables
