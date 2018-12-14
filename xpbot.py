@@ -1,7 +1,6 @@
 import discord
 import asyncio
 import logging
-import string
 
 
 # Set these variables
