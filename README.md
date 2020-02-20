@@ -1,4 +1,7 @@
 # discord-xpbot
+
+## Deprecated, this method no longer works with the Discord API.
+<br>
 A python script that sends a message in a discord server every minute. Used to gain XP in bots like Mee6.
 
 <b>MUST RUN ON A COMPUTER THAT HAS LOGGED IN TO DISCORD BEFORE</b> 
